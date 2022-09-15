@@ -47,4 +47,15 @@ function multiply(a, b){
 
 ### Courses:
 
+* HTML5/CSS3 on the https://7e.com.ua/webdev/
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+------------------------------------------
+
+### Languages:
+
+* Ukrainian - Native
+* Russian - Native
+* English - A2 thecampster.com(I have certificate)
+
 
